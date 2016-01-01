@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hey Reader, this is Pramod's Blog for new technologies and product development
+I am Ruby on Rails Developer with some domain knowledge of Windows Phone Development.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I am a keen learner for Big Data and IOT development. I loves to checkout latest Robotics development and buzzing startup ideas.
+Other than my profession I loves to explore my hometown, their traditions and cultures.
