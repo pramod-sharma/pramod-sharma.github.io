@@ -26,5 +26,5 @@ Lets firstly see how RAID handles it(talk specifically about RAID 5) - RAID 5 us
 For Linux one may use <b>mdadm</b> to setup RAID servers. <a href='http://www.tecmint.com/author/babinlonston/'> Babin Lonston </a> has wrote one cool article for it <a href='http://www.tecmint.com/create-raid-5-in-linux/'>here</a>. You may go for it
 To calculate your RAID Setup requirement use calculator <a href='http://www.thecloudcalculator.com/calculators/disk-raid-and-iops.html'> here </a>
 
-But remeber it all depends on your needs. Please comment incase you find any issue with this approach and remain enjoying your startup life!
+But remeber it all depends on your needs. Please comment incase you find any issue with this approach.
 
